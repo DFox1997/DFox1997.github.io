@@ -1,5 +1,4 @@
-Daniel Fox's portfolio
-
+Daniel Fox 
 
 Phone: 07565 901385 
 
@@ -74,3 +73,97 @@ Assisted in various home improvement tasks including installations, repairs, and
 Store Assistant – Local Convenience Store 2011 
 
 Provided customer service, handled transactions, and managed stock. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Education 
+
+ 
+
+BTEC Level 3 Diploma – Triple Distinction Star 
+
+BTEC IT – Pass 
+
+English Language, Core Science, Business, Additional Science, History – B 
+
+English Literature, Maths, Geography – C 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Additional Qualifications 
+
+ 
+
+Personal License 
+
+ 
+
+St John’s First Aid (2018) 
+
+ 
+
+Food Safety Level 1 
+
+ 
+
+Power Query and Power Pivot in Microsoft Excel 
+
+ 
+
+Microsoft Azure Administration 
+
+ 
+
+Introduction to Stata for Graphics and Data Visualisation 
+
+ 
+
+Fundamental Data Analysis using Power BI 
+
+ 
+
+Git Fundamentals 
+
+ 
+
+Azure Masterclass: Analyze Data with Azure Stream Analytics 
+
+ 
+
+Scrum Development 
+
+ 
+
+Diploma in Databases and T-SQL 
+
+ 
+
+C Programming: Pointers and Strings 
+
+ 
+
+Basics of Power Query 
+
+ 
+
+Diploma in Microsoft Power BI for Beginners 
+
+ 
+
+Master Microsoft Power BI 
+
+ 
