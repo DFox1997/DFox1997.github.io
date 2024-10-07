@@ -1,0 +1,2 @@
+https://finance.yahoo.com/quote/INTC/history/?period1=1570413342&period2=1728266137&frequency=1mo
+https://finance.yahoo.com/quote/AMD/
