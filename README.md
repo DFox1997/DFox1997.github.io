@@ -150,5 +150,3 @@ An experienced professional with a diverse background in management, hospitality
 - First Aid Level 2  
 - Personal License  
 - Food Safety Level 1
-
-You can now copy and paste this directly into your GitHub markdown file. Let me know if you need anything else!
